@@ -2,6 +2,8 @@
 
 Basic project to practice HTML / CSS.
 
+## Start the server
+
 ```bash
 $ go build
 $ ./static-resume
