@@ -1,3 +1,32 @@
-h1 {
-    color: red;
+header {
+    margin: 0% 20%;
+}
+
+header ul {
+    float: right;
+    padding: 0;
+    margin: 0;
+}
+
+header ul li {
+    display: inline;
+    float: left;
+}
+
+header a {
+    color: rgb(20%, 25%, 25%);
+    background: rgb(100%, 90%, 35%);
+    height: 50px;
+    line-height: 50px;
+    display: inline-block;
+    padding: 0cm 25px;
+    font-family: "Liberation Sans", sans-serif;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+main {
+    margin: 5% 20%;
 }
