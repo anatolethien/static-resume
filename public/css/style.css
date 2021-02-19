@@ -1,3 +1,7 @@
+html, body {
+    margin: 0 0;
+}
+
 header {
     margin: 0% 20%;
 }
@@ -15,7 +19,7 @@ header ul li {
 
 header a {
     color: rgb(20%, 25%, 25%);
-    background: rgb(100%, 90%, 35%);
+    background: rgb(100%, 80%, 30%);
     height: 50px;
     line-height: 50px;
     display: inline-block;
