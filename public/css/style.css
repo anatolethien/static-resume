@@ -1,9 +1,14 @@
-html, body {
-    margin: 0 0;
+html {
+    margin: 0vh 0vw;
+}
+
+body {
+    margin: 0vh 10vw;
+    box-shadow: black;
 }
 
 header {
-    margin: 0% 20%;
+    margin: 0vh 0vw;
 }
 
 header ul {
@@ -18,12 +23,12 @@ header ul li {
 }
 
 header a {
-    color: rgb(20%, 25%, 25%);
-    background: rgb(100%, 80%, 30%);
-    height: 50px;
-    line-height: 50px;
+    color: midnightblue;
+    background: orange;
+    height: 5vh;
+    line-height: 5vh;
+    padding: 0px 20px;
     display: inline-block;
-    padding: 0cm 25px;
     font-family: "Liberation Sans", sans-serif;
     font-weight: bold;
     text-align: center;
@@ -32,5 +37,5 @@ header a {
 }
 
 main {
-    margin: 5% 20%;
+    margin: 5em 5em;
 }
