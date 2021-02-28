@@ -3,8 +3,9 @@ html {
 }
 
 body {
-    margin: 0vh 10vw;
+    margin: 0vh 20vw;
     box-shadow: black;
+    background: #ffffff;
 }
 
 header {
@@ -23,11 +24,11 @@ header ul li {
 }
 
 header a {
-    color: midnightblue;
-    background: orange;
+    color: #180d2f;
+    background: #ecab11;
     height: 5vh;
     line-height: 5vh;
-    padding: 0px 20px;
+    padding: 0vh 2vw;
     display: inline-block;
     font-family: "Liberation Sans", sans-serif;
     font-weight: bold;
