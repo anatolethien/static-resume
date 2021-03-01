@@ -8,6 +8,6 @@ import (
 func main() {
 	app := fiber.New()
 
-	app.Static("/", "./public")
+	app.Static("/", "./web")
 	log.Fatal(app.Listen(":3000"))
 }
