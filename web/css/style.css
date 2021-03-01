@@ -4,26 +4,20 @@ html {
 
 body {
     margin: 0vh 20vw;
-    box-shadow: black;
-    background: #ffffff;
 }
 
-header {
-    margin: 0vh 0vw;
-}
-
-header ul {
+nav ul {
     float: right;
     padding: 0;
     margin: 0;
 }
 
-header ul li {
+nav ul li {
     display: inline;
     float: left;
 }
 
-header a {
+nav a {
     color: #180d2f;
     background: #ecab11;
     height: 5vh;
@@ -38,5 +32,17 @@ header a {
 }
 
 main {
-    margin: 5em 5em;
+    margin: 10% 0%;
+}
+
+main h2 {
+    font-family: "Liberation Sans", sans-serif;
+    text-align: center;
+    font-size: 5vh;
+}
+
+main p {
+    font-family: "Liberation Sans", sans-serif;
+    text-align: justify-all;
+    font-size: 3vh;
 }
